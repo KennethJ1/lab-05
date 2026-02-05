@@ -2,10 +2,11 @@
 
 ## Student Details
 
-- **Full Name:** `<Kenneth Josepgh>`
+- **Full Name:** `<Kenneth Joseph>`
 - **CCID:** `<Kmjosep1>`
 
 ## References and Resources
+NOTE*: LONG PRESS IS EDIT, SHORT PRESS SELECTS SO YOU CAN THEN DELETE CITY 
 
 List any resources used here, or simply put `N/A` if not applicable.
 
